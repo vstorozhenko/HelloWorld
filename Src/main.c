@@ -19,7 +19,7 @@ int main(void)
 		//HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_14);
 		HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_15);
 		
-		HAL_Delay(15);
+		HAL_Delay(20);
   
 	
 	}
